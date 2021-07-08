@@ -1,0 +1,17 @@
+/***************************
+Nav Modules
+***************************/
+.nav > ul {
+  margin: 0px;
+  list-style: none;
+  padding: 0px;
+}
+.nav-primary {
+  margin-top: 28px;
+  @include small-and-above {
+    margin-top: 0px;
+    li {
+      display: inline-block;
+    }
+  }
+}
