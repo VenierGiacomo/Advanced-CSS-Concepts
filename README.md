@@ -1,5 +1,5 @@
 # Microsoft DEVx Advanced CSS Concepts
-### This repository contains all the solutions to [Microsoft DEVx Advanced CSS Concepts] (https://learning.edx.org/course/course-v1:Microsoft+DEV218x+3T2018/home) course. 
+### This repository contains all the solutions to [Microsoft DEVx Advanced CSS Concepts](https://learning.edx.org/course/course-v1:Microsoft+DEV218x+3T2018/home) course. 
 
 
 ### About this course
